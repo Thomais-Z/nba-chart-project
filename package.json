@@ -1,0 +1,12 @@
+{
+  "name": "nba_chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "index.html"
+  },
+  "keywords": [],
+  "author": "Thomais Zafeiriou",
+  "license": "ISC"
+}
